@@ -1,2 +1,3 @@
-# C-Users-LEJ-USER-Documents-mh-streamlit-Background_removal_app
-This is the background removal web application. 
+# BackgroundRemoval
+
+Upload an image and adjust the settings to remove the background for any image!
